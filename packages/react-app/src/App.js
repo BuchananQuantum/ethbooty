@@ -75,14 +75,8 @@ function App() {
       </Header>
       <Body>
         <Image src={logo} alt="ethereum-logo" />
-        <p>
-          Edit <code>packages/react-app/src/App.js</code> and save to reload.
-        </p>
-        <Link href="https://reactjs.org">
-          Learn React
-        </Link>
-        <Link href="https://usedapp.io/">Learn useDapp</Link>
-        <Link href="https://thegraph.com/docs/quick-start">Learn The Graph</Link>
+        <p>Page Your Bills on Time</p>
+        <p>PS. Your a gAybOoTy BoY</p>
       </Body>
     </Container>
   );
